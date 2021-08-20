@@ -18,7 +18,7 @@ Here are some things to do :
  
  Sources
  -
- I created this protocole with help of many websites tracing the breach : 
+ I created this protocol with help of many websites tracing the breach : 
  - https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527
  - https://kb.cert.org/vuls/id/383432
  - https://wccftech.com/windows-printnightmare-patch-requires-additional-registry-settings/
